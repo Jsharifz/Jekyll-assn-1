@@ -1,0 +1,34 @@
+{% include header.html %}
+
+<body>
+    <main>
+        <div class="nav-pusher"></div>
+        {{content}}
+        <br>
+
+        <div class="service-grid">
+
+            <div class="c1">Service</div>
+            <div class="c2">Desciption</div>
+            <div class="c3">Cost</div>
+
+            <div class="c1"><br></div>
+            <div class="c2"><br></div>
+            <div class="c3"><br></div>
+
+            {% for service in site.data.services %}
+
+            <div class="c1">{{service.job}}</div>
+            <div class="c2">{{service.description}}</div>
+            <div class="c3">{{service.cost}}</div>
+
+            {% endfor %}
+
+        </div>
+
+        <br>
+        <p>Custom services may be provided... at a cost ;)</p>
+    </main>
+</body>
+
+{% include footer.html %}

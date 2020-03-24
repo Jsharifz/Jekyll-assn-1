@@ -1,0 +1,39 @@
+- job: Birthdays
+  description: 
+  cost: 199
+
+- job: Weddings
+  description: 
+  cost: 699
+
+- job: Divorces
+  description: 
+  cost: 299
+
+- job: Anniversaries
+  description: 
+  cost: 599
+
+- job: Recursions
+  description: 
+  cost: 314.159265359
+
+- job: Your first job
+  description: 
+  cost: 99
+
+- job: Your first fired from "first job"
+  description: 
+  cost: 0
+
+- job: Team building (clowning around)
+  description: 
+  cost: 199
+
+- job: Surprise a friend (with a not a killer clown)
+  description: 
+  cost: 16999
+
+- job: Foot massages
+  description: 
+  cost: 19
