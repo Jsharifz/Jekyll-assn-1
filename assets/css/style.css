@@ -12,6 +12,10 @@ h1, h2, h4 {
     text-align: center;
 }
 
+p {
+    line-height: 1.6;
+}
+
 nav {
     display: flex;
     align-items: center;
@@ -56,6 +60,10 @@ nav {
     margin-top: 100px;
 }
 
+.foot-pusher{
+    margin-bottom: 150px;
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -72,23 +80,24 @@ main {
     height: auto;
     padding: 0.5rem;
     background-color: rgb(176, 252, 255);
+    align-items: center;
 }
 
 .c1 {
     grid-column: 1 / 2;
-    padding: 0.25rem
+    padding: 0.5rem;
 }
 
 .c2 {
     grid-column: 2 / 3;
     text-align: center;
-    padding: 0.25rem
+    padding: 0.5rem;
 }
 
 .c3 {
     grid-column: 3 / 4;
     text-align: right;
-    padding: 0.25rem
+    padding: 0.5rem;
 }
 
 .contact {
@@ -104,6 +113,24 @@ form {
 
 #submit {
     padding: 0.5rem;
+}
+
+.clowns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.clowns h3, p {
+    margin-top: 0;
+}
+
+.clowns p {
+    width: 75vw;
+}
+
+.clowns img {
+    height: 50vw;
 }
 
 input, textarea {

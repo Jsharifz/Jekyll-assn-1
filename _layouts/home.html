@@ -4,6 +4,16 @@
     <main>
         <div class="nav-pusher"></div>
         {{content}}
+
+        {% for clown in site.clowns %}
+        <section class="clowns">
+            <h2>{{clown.name}}</h2>
+            <h3>Specialty: {{clown.service}}</h3>
+            <img src="{{clown.link}}" alt="{{clown.name}}">
+            <p>{{clown.content}}</p>
+        </section>
+        {% endfor %}
+        <div class="foot-pusher"></div>
     </main>
 </body>
 

@@ -1,11 +1,8 @@
-- id: blog
-  label: Blog
+- label: Blog
   link: "/blog.html"
 
-- id: services
-  label: Services
+- label: Services
   link: "/services.html"
 
-- id: contact
-  label: Contact
+- label: Contact
   link: "/contact.html"

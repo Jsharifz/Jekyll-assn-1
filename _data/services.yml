@@ -1,39 +1,39 @@
 - job: Birthdays
-  description: 
+  description: What is more special than the day you were born? Let us help you celibrate it! Parties for children under the age of 10 receive 25% off!
   cost: 199
 
 - job: Weddings
-  description: 
+  description: Don't know how to entertain your guests? Are you on a budget? Let us make your wedding more memorable than George Clooney's! We wont leave until everyone (including the bride and groom) have some form of pasry hanging in their hair!
   cost: 699
 
 - job: Divorces
-  description: 
+  description: Sometimes you just want to spend time with a few clowns *honk honk*. We will help you build new memories that you will carry for the rest of your life!
   cost: 299
 
 - job: Anniversaries
-  description: 
+  description: Whether it's wedding, first car, first date, or being sober for another year, we will makre sure it will take your breath away (not literally).
   cost: 599
 
 - job: Recursions
-  description: 
+  description: Want to play a prank on a friend for their birthday? We will come to their place, entertain them, and come again the next day pretending we just met them!
   cost: 314.159265359
 
 - job: Your first job
-  description: 
+  description: Maybe you had a tough grind lately now you feel like a bigger person after landing your first job. We will visit you at your and throw pies at you and your boss!
   cost: 99
 
 - job: Your first fired from "first job"
-  description: 
+  description: Maybe it was you, maybe it was them, we don't judge. Since you may be tight on Benjamins, this one's on us! We will visit your boss and throw some pies at them!
   cost: 0
 
 - job: Team building (clowning around)
-  description: 
+  description: We will also help business and families learn team-building skills such as communication and cooperation.
   cost: 199
 
 - job: Surprise a friend (with a not a killer clown)
-  description: 
+  description: "***NOTE TO SITE BUILDER. Do NOT include this! THIS is a secret phrase for hiring an assassin. This service cannot be seen live***"
   cost: 16999
 
 - job: Foot massages
-  description: 
+  description: If you thought you had a long day and just want to settle down for the day, let us massage your tired feet with a complementary cup of beer on us!
   cost: 19
