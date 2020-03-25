@@ -7,7 +7,7 @@ title: "Home"
 <br>
 <br>
 
-# Welcome to the funniest (sorta) site in ze world!
+# Welcome to Jokeathon! The hub for clown comedy congregation!
 ## If we don't make you get up from your chair, roll on the floor, and laught your intestines out, we will give you your money back... "Guaranteed"! *honk honk*
 #### "A clown makes you laugh it doesn't mean he knows how to perform a surgery."
 #### - Kambiz Shabankareh
